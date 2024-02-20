@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eslam Gouda Emam</h1>
 <h3 align="center">A passionate Software developer from Egypt</h3>
-<div style="border-radius: 10px; overflow: hidden;">
 <img align="right" width="400" alt="codeing" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*NgUtI3tYLhuq5Vy0.gif"/>
-</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamgouda97&label=Profile%20views&color=0e75b6&style=flat" alt="eslamgouda97" /> </p>
 
 - 🔭 I’m currently working on [LensLux](https://lens-lux.vercel.app/products?page=1)

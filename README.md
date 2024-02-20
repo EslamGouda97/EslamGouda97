@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJs-NextJs-JavaScript-NodeJs**
 
-- 📫 How to reach me **eslamgoda342@gmail.cpm**
+- 📫 How to reach me **eslamgoda342@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/8uu50v10k7](https://flowcv.com/resume/8uu50v10k7)
 

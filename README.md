@@ -5,9 +5,9 @@
 <img align="right" width="400" alt="codeing" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*NgUtI3tYLhuq5Vy0.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamgouda97&label=Profile%20views&color=0e75b6&style=flat" alt="eslamgouda97" /> </p>
 
-- 🔭 I’m currently working on [LensLux](https://lens-lux.vercel.app/products?page=1)
+- 🔭 I’m currently working on AccFlex
 
-- 🌱 I’m currently learning **PHP and Laravel framework**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://eslam-gouda-portifolio.vercel.app/](https://eslam-gouda-portifolio.vercel.app/)
 

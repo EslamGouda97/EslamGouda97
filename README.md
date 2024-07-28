@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on AccFlex ERP system
 
-- 🌱 I’m currently learning **ASP.NET Core**
-
 - 👨‍💻 All of my projects are available at [https://eslam-gouda-portifolio.vercel.app/](https://eslam-gouda-portifolio.vercel.app/)
 
 - 💬 Ask me about **AngularJS-ReactJs-NextJs-JavaScript-NodeJs-MongoDb**

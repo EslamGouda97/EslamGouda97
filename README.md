@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eslam-gouda-portifolio.vercel.app/](https://eslam-gouda-portifolio.vercel.app/)
 
-- 💬 Ask me about **AngularJS-ReactJs-NextJs-JavaScript-NodeJs-MongoDb**
+- 💬 Ask me about **Angular-ReactJs-NextJs-JavaScript-NodeJs-MongoDb**
 
 - 📫 How to reach me **eslamgoda342@gmail.com**
 
